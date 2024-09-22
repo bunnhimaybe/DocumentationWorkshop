@@ -212,7 +212,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Nhi Pham - [@bunnhimaybe](https://github.com/bunnhimaybe) - email@email_client.com
 Jenny Spicer - [@Jenspi](https://github.com/Jenspi) - email@email_client.com
-Victoria Pham - [@vplpham](https://github.com/vplpham) - email@email_client.com
+Victoria Pham - [@actuallyvee](https://github.com/actuallyvee) - email@email_client.com
 
 Project Link: [https://github.com/bunnhimaybe/DocumentationWorkshop](https://github.com/bunnhimaybe/DocumentationWorkshop)
 
