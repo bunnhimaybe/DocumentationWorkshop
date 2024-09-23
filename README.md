@@ -76,13 +76,11 @@ To avoid retyping too much information, do a search and replace with your text e
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This workshop and its supporting documents are for UNO's 4120/5120 Intro to Software Engineering. The class, composed of 32 students, is working on one large project for the CS department, and is split into "pods" of three people each.
 
-Each pod is assigned a specialization, and is responsible for hosting a workshop and providing support for the remainder of the semester. Our pod was assigned "Documentation", which means we are required to specialize in the following...
-
+Each pod is assigned a specialization, and is responsible for hosting a workshop and providing support for the remainder of the semester. Our pod was assigned **Documentation**, which means we are required to specialize in the following...
 * Auto-documentation with Sphinx
 * Commit messages
 * README files
