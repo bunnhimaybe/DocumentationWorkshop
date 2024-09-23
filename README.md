@@ -273,7 +273,7 @@ Victoria Pham - [@vplpham](https://github.com/vplpham) - vppham@uno.edu<br>
 [v-linkedin-shield]: https://img.shields.io/badge/Victoria's%20linkedin-black?style=for-the-badge&logo=linkedin&labelColor=%230077B5&color=%230077B5
 [nhi-linkedin-url]: https://linkedin.com/in/lisanapham
 [jenny-linkedin-url]: https://linkedin.com/in/Jenspi
-[vee-linkedin-url]: https://linkedin.com/in/linkedin_username
+[vee-linkedin-url]: https://linkedin.com/in/actuallyvee
 
 <!-- Badges -->
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
