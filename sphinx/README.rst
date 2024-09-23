@@ -1,12 +1,21 @@
 Sphinx Documentation
 ========================
-In order to use Sphinx, install Python V.3+. Make sure `pip` and `PATH` are checked in the download set-up. 
+Python must be installed. The recommended download is Python 3+ but Python 2.7 is fine. 
+In Windows, make sure the 'pip' and 'PATH' boxes during download installation is checked.
 
-To Install Sphinx into your operating system, type the following command into your command/terminal line:
+To check if python downloaded correctly, run the following commands based on the operating system (OS) used in your command or terminal line.
+* Windows:
+    * ``$ py --version``
+* MacOS:
+    * ``$ python3``
 
-* Windows: ``$ pip install -U sphinx``
-* Linux: ``$ apt-get install python3-sphinx``
-* MacOS: ``$ brew install sphinx-doc``
+To install Sphinx, run the following commands:
+* Windows:
+    * ``$ pip install -U sphinx``
+* Linux:
+    * ``$ apt-get install python3-sphinx``
+* MacOS:
+    * ``$ brew install sphinx-doc``
 
 Git Repository
 -------------------------------
