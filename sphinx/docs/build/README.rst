@@ -15,7 +15,7 @@ Git clone the reposity into your documents folder.
 
 Folder and Document Information
 ---------------------------------
-DocumentationWorkshop.sphinx
+* DocumentationWorkshop.sphinx
     * README.rst: information about the folder and files
     * .venv: supports the creation of a virtual environment, allows developers to control software dependendies such as packages and libraries
         * docs: location of your build and source directory folders
