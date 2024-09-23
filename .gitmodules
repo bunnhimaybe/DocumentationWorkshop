@@ -1,0 +1,3 @@
+[submodule "docs/DocumentationWorkshop.wiki"]
+	path = docs/DocumentationWorkshop.wiki
+	url = https://github.com/bunnhimaybe/DocumentationWorkshop.wiki.git
