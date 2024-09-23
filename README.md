@@ -80,21 +80,21 @@ To avoid retyping too much information, do a search and replace with your text e
 
 This workshop and its supporting documents are for UNO's 4120/5120 Intro to Software Engineering. The class, composed of 32 students, is working on one large project for the CS department, and is split into "pods" of three people each.
 
-Each pod is assigned a specialization, and is responsible for hosting a workshop and providing support for the remainder of the semester. Our pod was assigned **Documentation**, which means we are required to specialize in the following...
+Each pod is assigned a topic specialization that they are responsible for hosting a workshop on and providing support throughout the semester. Our pod was assigned **Documentation**, which means we are experts in the following...
 * Auto-documentation with Sphinx
 * Commit messages
 * README files
 * GitHub Pages
 * GitHub Wikis
-* Best practices
+* Best practices for documentation
 
-Our pod presents Tuesday, September 24th, 2024. Our pod consists of Nhi, Jenny, and Victoria (more information listed below in <a href="#contact">Contact</a>).
+Our group presents Tuesday, September 24th, 2024. Our pod consists of Nhi, Jenny, and Victoria (more information listed below in <a href="#contact">Contact</a>).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+### Built With:
 
 * [![Sphinx Button][Sphinx]][Sphinx-url]
 * [![GitHub Button][GitHub]][Github-url]
