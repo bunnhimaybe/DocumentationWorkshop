@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <h2 align="center">Welcome to the Documentation Workshop Page!</h2>
 <div>
     <details>
@@ -24,7 +20,8 @@ layout: default
     We hope this workshop is useful to you!
 </p>
 
-<img align="center" src="https://github.com/bunnhimaybe/DocumentationWorkshop/blob/master/images/repeating.jpg?raw=true" width=250>
+<div style="text-align: center;">
+  <img src="https://github.com/bunnhimaybe/DocumentationWorkshop/blob/master/images/repeating.jpg?raw=true" width=300>  </div>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
