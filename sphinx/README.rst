@@ -4,6 +4,7 @@ Python must be installed. The recommended download is Python 3+ but Python 2.7 i
 In Windows, make sure the 'pip' and 'PATH' boxes during download installation is checked.
 
 To check if python downloaded correctly, run the following commands based on the operating system (OS) used in your command or terminal line.
+
 * Windows:
     * ``$ py --version``
 * MacOS:
