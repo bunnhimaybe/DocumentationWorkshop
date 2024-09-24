@@ -29,7 +29,7 @@ To avoid retyping too much information, do a search and replace with your text e
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="sample-images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -227,7 +227,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- README helpers -->
 [test-shield]: https://img.shields.io/badge/example%20label-black?style=for-the-badge&logo=github
 [test-url]: https://www.github.com/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: sample-images/screenshot.png
 
 <!-- GitHub Stats-->
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
