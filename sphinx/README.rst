@@ -49,4 +49,4 @@ Folder and Document Information
 
 Pathway to find HTML
 --------------------------------
-C Drive > Users > [YourFolder] > [CreateFolder]​ > [.venv] > [docs] > [index]
+C Drive > Users > [YourFolder] > [CreateFolder]​ > [.venv] > [docs] > [build] > [html] > [index]
