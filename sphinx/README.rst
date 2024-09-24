@@ -11,6 +11,7 @@ To check if python downloaded correctly, run the following commands based on the
     * ``$ python3``
 
 To install Sphinx, run the following commands:
+
 * Windows:
     * ``$ pip install -U sphinx``
 * Linux:
