@@ -4,12 +4,14 @@ Python must be installed. The recommended download is Python 3+ but Python 2.7 i
 In Windows, make sure the 'pip' and 'PATH' boxes during download installation is checked.
 
 To check if python downloaded correctly, run the following commands based on the operating system (OS) used in your command or terminal line.
+
 * Windows:
     * ``$ py --version``
 * MacOS:
     * ``$ python3``
 
 To install Sphinx, run the following commands:
+
 * Windows:
     * ``$ pip install -U sphinx``
 * Linux:
@@ -47,4 +49,4 @@ Folder and Document Information
 
 Pathway to find HTML
 --------------------------------
-C Drive > Users > [YourFolder] > [CreateFolder]​ > [.venv] > [docs] > [index]
+C Drive > Users > [YourFolder] > [CreateFolder]​ > [.venv] > [docs] > [build] > [html] > [index]
