@@ -16,8 +16,13 @@ To avoid retyping too much information, do a search and replace with your text e
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]<br>
+[![Contributors][contributors-shield]][contributors-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
+
+<div align="center">
+
 [![Nhi's LinkedIn][n-linkedin-shield]][nhi-linkedin-url] [![Jenny's LinkedIn][j-linkedin-shield]][jenny-linkedin-url] [![Victoria's LinkedIn][v-linkedin-shield]][vee-linkedin-url]
+
+</div>
 
 
 
@@ -25,17 +30,14 @@ To avoid retyping too much information, do a search and replace with your text e
 <br />
 <div align="center">
   <a href="https://github.com/bunnhimaybe/DocumentationWorkshop">
-    <img src="images/logo.png" alt="Logo" width="970" height="300">
+    <img src="images/logo.png" alt="Logo" width="1000">
   </a>
 
-<h3 align="center">Documentation Workshop</h3>
+<h1 align="center">Documentation Workshop</h1>
 
   <p align="center">
-    <strong>Pod 8:</strong> A workshop and supporting documents for creating and maintaining documentation.
-    <br />
-    <a href="https://github.com/bunnhimaybe/DocumentationWorkshop"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
+    <strong>Pod 8:</strong> A workshop and supporting documents for creating and maintaining documentation.<br/>
+    <a href="https://github.com/bunnhimaybe/DocumentationWorkshop"><strong>Explore the docs »</strong></a><br/>
     <a href="https://github.com/bunnhimaybe/DocumentationWorkshop">View Demo</a>
     ·
     <a href="https://github.com/bunnhimaybe/DocumentationWorkshop/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
@@ -73,14 +75,22 @@ To avoid retyping too much information, do a search and replace with your text e
 </details>
 
 
+<div align="center">  <h4>Built With: </h4>
+
+ [![Sphinx Button][Sphinx]][Sphinx-url] [![GitHub Button][GitHub]][Github-url] [![Discord Button][Discord]][Discord-url]
+[![Markdown Button][Markdown.md]][Markdown-url] [![GitHub Pages Button][GitHubPages]][GitHubPages-url]
+</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</div>
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This workshop and its supporting documents are for UNO's 4120/5120 Intro to Software Engineering. The class, composed of 32 students, is working on one large project for the CS department, and is split into "pods" of three people each.
+This workshop and its supporting documents are for the University of New Orleans's *CSCI 4120/5120 Intro to Software Engineering*. The class, composed of 32 students, is working on one large project for the Computer Science Department and is split into "pods" of three people each.
 
-Each pod is assigned a topic specialization that they are responsible for hosting a workshop on and providing support throughout the semester. Our pod was assigned **Documentation**, which means we are experts in the following...
+Each pod is assigned a topic specialization that they are responsible for hosting a workshop on and providing support throughout the semester. Our pod was assigned **Documentation**, which means we are experts in...
 * Auto-documentation with Sphinx
 * Commit messages
 * README files
@@ -94,48 +104,35 @@ Our group presents Tuesday, September 24th, 2024. Our pod consists of Nhi, Jenny
 
 
 
-### Built With:
-
-* [![Sphinx Button][Sphinx]][Sphinx-url]
-* [![GitHub Button][GitHub]][Github-url]
-* [![Discord Button][Discord]][Discord-url]
-* [![Markdown Button][Markdown.md]][Markdown-url]
-* [![GitHub Pages Button][GitHubPages]][GitHubPages-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To follow along with our workshop, follow these simple example steps.
+To follow along with our workshop, install the prerequisites below and refer to our [Wiki](https://github.com/bunnhimaybe/DocumentationWorkshop/wiki) for each  topic.
 
 ### Prerequisites
 
-#### Auto-docs: <i>GitHub</i> account
-* Have a GitHub account. Register here: https://github.com/signup
+#### READMEs: 
+* **Visual Studio Code**
 
-#### Auto-docs: <i>Read the Docs</i> account
-* Have a Read the Docs account. Register here: https://about.readthedocs.com/
+If you would like to use your terminal, feel free to; we decided to base our workshop based around VSCode as an attempt to build off of the IDE Pod's workshop.
 
-#### Auto-docs: Python
+#### Auto-docs
+1. **GitHub** account; register [here](https://github.com/signup).
+2. **Read the Docs** account; register [here](https://about.readthedocs.com/).
+3. **Python**; to install:
+   * *Ubuntu*: `sudo apt install python3`
+   * *Linux*: `sudo pacman -S python`
+   * *MacOSx*: `brew install python`, with [Homebrew](https://brew.sh/).
+   * *Windows*: `choco install python`, with [Chocolatey](https://chocolatey.org/).
 
-* Check python version
+To see if you have Python installed correctly, check your python version with the command:
   ```sh
-  python --version #If this does not return a version, install below.
+  python --version
   ```
-* Install python<br>
-  **Ubuntu**: `sudo apt install python3`<br>
-  **Linux**: `sudo pacman -S python`<br>
-  **MacOSx**: `brew install python`, with Homebrew: https://brew.sh/<br>
-  **Windows**: `choco install python`, with Chocolatey: https://chocolatey.org/<br>
 
-#### READMEs: Visual Studio Code
-
-* If you would like to use your terminal, feel free to; we decided to base our workshop based around VSCode as an attempt to build off of the IDE Pod's workshop.
-
-### Auto-docs Installation
+#### Auto-docs Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -165,7 +162,7 @@ To follow along with our workshop, follow these simple example steps.
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
 
-**_For more examples, please refer to the [Documentation](https://github.com/bunnhimaybe/DocumentationWorkshop/wiki)._**
+**_For documenation examples, please refer to the [Documentation](https://github.com/bunnhimaybe/DocumentationWorkshop/wiki)._**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,20 +196,11 @@ Don't forget to give the project a star! ♥
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Top contributors:
+#### Top contributors:
 
 <a href="https://github.com/bunnhimaybe/DocumentationWorkshop/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=bunnhimaybe/DocumentationWorkshop" alt="top contributor brought to you by contrib.rocks" />
 </a>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,11 +209,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Nhi Pham - [@bunnhimaybe](https://github.com/bunnhimaybe) - lapham@uno.edu<br>
-Jenny Spicer - [@Jenspi](https://github.com/Jenspi) - jmspicer@uno.edu<br>
-Victoria Pham - [@vplpham](https://github.com/vplpham) - vppham@uno.edu<br>
+Nhi Pham - [@bunnhimaybe](https://github.com/bunnhimaybe) - lapham@uno.edu  
+Jenny Spicer - [@Jenspi](https://github.com/Jenspi) - jmspicer@uno.edu  
+Victoria Pham - [@vplpham](https://github.com/vplpham) - vppham@uno.edu  
 
-<strong>SWE Discord Invite: https://discord.gg/srMAfEGNn4</strong><br>
+<strong>SWE Discord Invite: https://discord.gg/srMAfEGNn4</strong>
 <strong>Project Link: [https://github.com/bunnhimaybe/DocumentationWorkshop](https://github.com/bunnhimaybe/DocumentationWorkshop)</strong>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -234,6 +222,8 @@ Victoria Pham - [@vplpham](https://github.com/vplpham) - vppham@uno.edu<br>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * [othneildrew's Best README Template](https://github.com/othneildrew/Best-README-Template)
 * [Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
