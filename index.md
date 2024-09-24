@@ -20,7 +20,11 @@ layout: default
     </details>
 <div>
 
-<img src="https://github.com/bunnhimaybe/DocumentationWorkshop/blob/master/images/repeating.jpg?raw=true" width=250>
+<p>
+    We hope this workshop is useful to you!
+</p>
+
+<img align="center" src="https://github.com/bunnhimaybe/DocumentationWorkshop/blob/master/images/repeating.jpg?raw=true" width=250>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
