@@ -1,5 +1,5 @@
 # Bienvenue, sur ma page web :wave:
-### Je m'appelle Nhi et j'aime les croissants
+### Je m'appelle Robert et j'aime les croissants
 ## **Project Title: Bookworm Buddy** :book::worm
 
 **Decsriptsion:**
