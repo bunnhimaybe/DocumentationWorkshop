@@ -162,7 +162,7 @@ To see if you have Python installed correctly, check your python version with th
 
 <!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.-->
 
-**_For documenation examples, please refer to the [Documentation](https://github.com/bunnhimaybe/DocumentationWorkshop/wiki)._**
+For documentation examples, please refer to the [Documentation](https://github.com/bunnhimaybe/DocumentationWorkshop/wiki).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,7 +172,7 @@ To see if you have Python installed correctly, check your python version with th
 ## Roadmap
 
 - [x] Workshop preparation
-- [ ] Workshop; September 24th, 2024
+- [x] Workshop; September 24th, 2024
   - [ ] Student deliverables submitted
 - [ ] Ongoing peer support via Discord
 
