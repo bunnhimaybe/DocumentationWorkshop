@@ -17,11 +17,16 @@
 <div>
 
 <p>
-    We hope this workshop is useful to you!
+    We hope this workshop is useful to you!<br/>
+    <a href="https://actuallyvee.github.io/sphinx">Sphinx Auto-Documentation Site</a><br/>
+    <a href="https://bunnhimaybe.github.io/DocumentationWorkshop/wiki">Documentation Wiki</a><br/>
+    <br/>
+    <h2>Contact</h2>
+    Jenny Spicer's <a href="https://github.com/jenspi">Github</a> / <a href="https://www.linkedin.com/in/jenspi/">LinkedIn</a><br/>
+    Victoria Pham's <a href="https://github.com/actuallyvee">Github</a> / <a href="https://www.linkedin.com/in/actuallyvee/">LinkedIn</a><br/>
+    Nhi Pham's <a href="https://github.com/bunnhimaybe">Github</a> / <a href="https://linkedin.com/in/lisanapham">LinkedIn</a><br/>
+    <br/>
 </p>
-
-<div style="text-align: center;">
-  <img src="https://github.com/bunnhimaybe/DocumentationWorkshop/blob/master/images/repeating.jpg?raw=true" width=300>  </div>
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
