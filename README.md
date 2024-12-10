@@ -173,8 +173,8 @@ For documentation examples, please refer to the [Documentation](https://github.c
 
 - [x] Workshop preparation
 - [x] Workshop; September 24th, 2024
-  - [ ] Student deliverables submitted
-- [ ] Ongoing peer support via Discord
+  - [x] Student peer reviews submitted
+- [x] Ongoing peer support via Discord
 
 See the [open issues](https://github.com/bunnhimaybe/DocumentationWorkshop/issues) for a full list of proposed features (and known issues).
 
